@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+my name is David,
+
+i am currently on a Bootcamp with Hyperion Dev learning Web design,
+
+
 <!--
 **davidchadwick72/davidchadwick72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

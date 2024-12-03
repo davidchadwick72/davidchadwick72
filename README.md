@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-my name is David,
+My name is **David**,
 
-i am currently on a Bootcamp with Hyperion Dev learning Web design.
+I am currently on a Bootcamp with Hyperion Dev learning Web design.
 
 
 <!--

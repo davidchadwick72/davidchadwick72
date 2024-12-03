@@ -2,7 +2,7 @@
 
 my name is David,
 
-i am currently on a Bootcamp with Hyperion Dev learning Web design,
+i am currently on a Bootcamp with Hyperion Dev learning Web design.
 
 
 <!--
